@@ -34,4 +34,28 @@ export const friends = [{
         username: 'Jovan',
         email: 'asongjovanny@gmail.com'
     },
+    {
+        id: 7,
+        name: 'Asonglefac Ranibel',
+        username: 'Ranibel',
+        email: 'ranibel@gmail.com'
+    },
+    {
+        id: 8,
+        name: 'Asonglefac Chelsea',
+        username: 'Chelsea',
+        email: 'chelsea@gmail.com'
+    },
+    {
+        id: 9,
+        name: 'Nkenne Rostand',
+        username: 'Rostand',
+        email: 'rostand@gmail.com'
+    },
+    {
+        id: 10,
+        name: 'Talla Amstong',
+        username: 'Amstrong',
+        email: 'amstrong@gmail.com'
+    },
 ]
