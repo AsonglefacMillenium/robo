@@ -1,13 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import App from './App';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
-//import Card from './Card';
 import 'tachyons';
-import {
-    friends
-} from './friends';
 
 
 import Cardlist from './Cardlist';
@@ -15,8 +11,7 @@ import Cardlist from './Cardlist';
 ReactDOM.render( <
     React.StrictMode >
     <
-    Cardlist friends = { friends }
-    / > < /
+    App / > < /
     React.StrictMode > ,
     document.getElementById('root')
 );

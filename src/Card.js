@@ -2,7 +2,7 @@ import React from 'react';
 
 const Card = ({ name, email, id }) => {
     return ( <
-        div className = " tc bg-light-green dib br3 pa3 ma3 bw2 shadow-5 grow" >
+        div className = " tc bg-light-blue dib br3 pa3 ma3 bw2 shadow-5 grow" >
 
         <
         img src = {
